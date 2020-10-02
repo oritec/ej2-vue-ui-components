@@ -30,7 +30,7 @@
 	"dependencies": {
 		"@syncfusion/ej2-base": "*",
 		"@syncfusion/ej2-vue-base": "*",
-		"@syncfusion/ej2-documenteditor": "npm:oritec-ej2-documenteditor",
+		"@syncfusion/ej2-documenteditor": "npm:oritec-ej2-documenteditor"
 	},
 	"devDependencies": {
 		"@types/chai": "^3.4.28",
